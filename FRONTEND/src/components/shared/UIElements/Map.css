@@ -1,0 +1,5 @@
+/* so map is run in the entire compoennet we provide to it. */
+.map {
+  width: 100%;
+  height: 100%;
+}
